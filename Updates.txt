@@ -1,3 +1,5 @@
 This is a file where I will load some updates.
 
 Make some additional changes on the web
+
+Now making some changes inside VSC to see if they get replicated.
